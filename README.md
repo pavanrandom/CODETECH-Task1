@@ -8,7 +8,7 @@ ID:CT6AI763
 
 Domain:ARTIFICIAL INTELLIGENCE
 
-Duration:JULY TO AUG 2025
+Duration:JULY TO AUG 2024
 
 Mentor:Muzamil Ahmed
 
